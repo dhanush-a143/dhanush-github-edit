@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="center">
-  <strong>🚀 Junior Cloud Engineer  | Focused on Cloud Technologies ⚙️</strong>
+  <strong>🚀 Junior Software Engineer  | Focused on Cloud Technologies ⚙️</strong>
 </h3>
 
 ---
